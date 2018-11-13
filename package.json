@@ -1,5 +1,5 @@
 {
-  "name": "@littleq/deep-extend",
+  "name": "@tjmonsi/deep-extend",
   "version": "0.0.1",
   "description": "Copied from Firebase utils deep-extend",
   "main": "deep-extend.js",

@@ -1,0 +1,23 @@
+{
+  "name": "@littleq/deep-extend",
+  "version": "0.0.1",
+  "description": "Copied from Firebase utils deep-extend",
+  "main": "deep-extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmonsi/deep-extend.git"
+  },
+  "keywords": [
+    "deep-copy",
+    "deep-extend"
+  ],
+  "author": "TJ Monserrat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmonsi/deep-extend/issues"
+  },
+  "homepage": "https://github.com/tjmonsi/deep-extend#readme"
+}
